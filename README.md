@@ -1,0 +1,1 @@
+Some attempts at Project Euler challenges.
